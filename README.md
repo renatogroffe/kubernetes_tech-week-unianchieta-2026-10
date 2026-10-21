@@ -1,6 +1,19 @@
 # kubernetes_tech-week-unianchieta-2026-10
 Conteúdos da apresentação "Kubernetes: o que é, por que é tão importante e como funciona na prática?".
 
+## Referências
+
+Link úteis:
+- Kubernetes: https://kubernetes.io
+- KEDA: https://keda.sh
+- Grafana: https://grafana.com/
+- Prometheus: https://prometheus.io
+- Docker Hub: https://hub.docker.com/
+- Azure Container Apps: https://learn.microsoft.com/en-us/azure/container-apps/
+- Treinamentos Gratuitos Grafana: https://grafana.com/docs/learning-hub/
+- Certificações Gratuitas da Linux Foundation: https://training.linuxfoundation.org/full-catalog/?_sfm_price=0
+- Certificação Gratuita Kubernetes - Linux Foundation: https://training.linuxfoundation.org/training/introduction-to-kubernetes/
+
 ## Exemplo
 
 Um deployment em Kubernetes:
