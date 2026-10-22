@@ -13,6 +13,11 @@ Link úteis:
 - Treinamentos Gratuitos Grafana: https://grafana.com/docs/learning-hub/
 - Certificações Gratuitas da Linux Foundation: https://training.linuxfoundation.org/full-catalog/?_sfm_price=0
 - Certificação Gratuita Kubernetes - Linux Foundation: https://training.linuxfoundation.org/training/introduction-to-kubernetes/
+- Cloud Native Computing Foundation: https://www.cncf.io/
+- Helm: https://helm.sh/
+- k9s: https://k9scli.io/
+- kubectx: https://github.com/ahmetb/kubectx
+- kind: https://kind.sigs.k8s.io/
 
 ## Exemplo
 
